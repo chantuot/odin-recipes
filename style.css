@@ -1,0 +1,31 @@
+body {
+    background: darkgrey;
+    font-family: 'Jost', sans-serif;
+}
+
+.container {
+    /* background-color: darkslategrey; */
+    color: white;
+    text-align: center;
+    max-width: 520px;
+    margin: auto;
+}
+
+.flavor {
+    /* background-color: blueviolet; */
+    width: 240px;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.recipe-list {
+    /* background-color: palevioletred; */
+    width: 240px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1 {
+    /* font-family: 'Jost', sans-serif; */
+    font-size: 75px;
+}
